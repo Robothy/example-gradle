@@ -16,6 +16,6 @@ jobs:
     - name: Set Environment variable.
       run: export CODECOV_TOKEN=${{secrets.CODECOV_TOKEN}}
     - name: Execute task jacocoTestReport
-      run: ./gradlew test jacocoTestReport --debug
+      run: ./gradlew test jacocoTestReport
     - name: Upload report.
       run: bash <(curl -s https://codecov.io/bash)
