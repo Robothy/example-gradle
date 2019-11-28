@@ -1,7 +1,6 @@
 # [Codecov][1] Gradle Example
 
 [![Actions Status](https://github.com/Robothy/example-gradle/workflows/test/badge.svg)](https://github.com/Robothy/example-gradle/actions)
-
 [![codecov](https://codecov.io/gh/Robothy/example-gradle/branch/master/graph/badge.svg)](https://codecov.io/gh/Robothy/example-gradle)
 
 1. Add Jacoco Plugin to your `build.gradle`. [See here](https://github.com/codecov/example-gradle/blob/master/build.gradle#L5)
