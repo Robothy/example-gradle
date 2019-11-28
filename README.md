@@ -1,6 +1,6 @@
 # [Codecov][1] Gradle Example
 
-[![Actions Status](https://github.com/Robothy/example-gradle/workflows/Java CI/badge.svg)](https://github.com/Robothy/example-gradle/actions)
+[![Actions Status](https://github.com/Robothy/example-gradle/workflows/test/badge.svg)](https://github.com/Robothy/example-gradle/actions)
 
 [![codecov](https://codecov.io/gh/Robothy/example-gradle/branch/master/graph/badge.svg)](https://codecov.io/gh/Robothy/example-gradle)
 
